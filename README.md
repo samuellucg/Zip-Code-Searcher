@@ -16,10 +16,11 @@ Verifique se você possui os seguintes requisitos instalados:
 2. Navegue até o diretório do projeto: cd Zip-Code-Searcher
 3. Inicie o node-red: node-red
 4. Ao iniciar, verifique seu Ip e a porta.
-5. Cole seu ip e porta em seu navegador para acessar a interface da aplicação:
-6. http://ip-do-usuario:porta/ui
-7. Caso queira pesquisar um cep diretamente:
-8. http://ip-do-usuario:porta/zipcode/cep-desejado
+5. Copie e cole seu ip e porta em seu navegador para acessar a interface do node-red.
+6. Cole seu ip e porta em seu navegador para acessar a interface da aplicação:
+7. http://ip-do-usuario:porta/ui
+8. Caso queira pesquisar um cep diretamente:
+9. http://ip-do-usuario:porta/zipcode/cep-desejado
 
 
 #### Créditos
